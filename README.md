@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yuyi5la
-- 👀 I’m interested in Data science and cyber security
+- 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me I don't know email?
