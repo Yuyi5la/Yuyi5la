@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Ella</p>
+<p align="left">My name is Ella — welcome to my GitHub!</p>
+
 
 ###
 
@@ -10,7 +11,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working on a project<br>🎯 Goals: To create anything I dream<br>🎲 Fun fact:  I hate cucumbers</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently working on a project<br>
+🧠 Self-taught + always learning <br>
+💻 Working on data-driven projects with Python & JS <br>
+🎯 Goal: Build useful, beautiful things <br>
+🥒 Fun fact: I don't negotiate with cucumbers </p>
 
 ###
 
@@ -39,3 +44,11 @@
 </div>
 
 ###
+
+
+
+<p align="left">
+  <a href="https://emmy-red-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> <br>
+  <a href=":http://linkedin.com/in/emmanuella-ezinne-013a42249" target="_blank">💼 LinkedIn</a> <br>
+  
+</p>
