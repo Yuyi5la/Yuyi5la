@@ -49,6 +49,6 @@
 
 <p align="left">
   <a href="https://emmy-red-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> <br>
-  <a href=":http://linkedin.com/in/emmanuella-ezinne-013a42249" target="_blank">💼 LinkedIn</a> <br>
+  <a href="http://linkedin.com/in/emmanuella-ezinne-013a42249" target="_blank">💼 LinkedIn</a> <br>
   
 </p>
