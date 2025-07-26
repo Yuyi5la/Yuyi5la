@@ -8,12 +8,13 @@
 
 ## 🧠 About Me
 
-- ✨ Creating bugs since 2021  
-- 📚 Currently working on a backend role management system  
-- 🧠 Self-taught & always learning  
-- 💻 Python + JavaScript lover  
-- 🎯 Goal: Build beautiful, functional systems  
-- 🥒 Fun Fact: I don't negotiate with cucumbers
+- 👩‍💻 Software Developer focused on building clean, efficient systems  
+- ✨ Writing code (and bugs) since 2021  
+- 🔧 Currently building a backend role management system (Node.js + MongoDB)  
+- 📚 Self-taught, constantly leveling up my skills  
+- 💡 Passionate about Python, JavaScript, and solving real-world problems  
+- 🎯 Mission: Craft useful, beautiful, and scalable software  
+  
 
 
 ---
