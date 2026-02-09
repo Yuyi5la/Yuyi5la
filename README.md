@@ -26,8 +26,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Yuyi5la&show_icons=true&theme=tokyonight&cache_seconds=1800)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuyi5la&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuyi5la&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuyi5la&layout=compact&theme=tokyonight)
 
 
 ## ⚒️ Tech Stack
