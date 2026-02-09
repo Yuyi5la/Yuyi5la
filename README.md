@@ -2,8 +2,6 @@
 
 **Developer • Data Enthusiast • Debug Queen 👑**
 
----
-
 ## 🧠 About Me
 
 - 👩‍💻 Software Developer focused on building clean, efficient systems  
@@ -56,7 +54,3 @@
   </a>
 </p>
 
----
-
-> 💬 _"Talk is cheap. Show me the code."_ — Linus Torvalds  
-> 🔁 Always pushing to GitHub like: `git commit -m "still learning"`
