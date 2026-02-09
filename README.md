@@ -2,18 +2,16 @@
 
 **Developer • Data Enthusiast • Debug Queen 👑**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yuyi5la&label=Profile%20views&color=blueviolet&style=flat-square)
-
 ---
 
 ## 🧠 About Me
 
 - 👩‍💻 Software Developer focused on building clean, efficient systems  
 - ✨ Writing code (and bugs) since 2021  
-- 🔧 Currently building a backend role management system (Node.js + MongoDB)  
+- 🔧 Currently building a Login system with Oauth and rate limiting
 - 📚 Self-taught, constantly leveling up my skills  
 - 💡 Passionate about Python, JavaScript, and solving real-world problems  
-- 🎯 Mission: Craft useful, beautiful, and scalable software  
+- 🎯 Mission: Bringing web ideas to life 
   
 
 
