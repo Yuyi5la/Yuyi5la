@@ -6,9 +6,8 @@ Backend Developer • AI/ML • Full stack
 
 - 👩‍💻 Software Developer focused on building clean, efficient systems  
 - ✨ Writing code (and bugs) since 2021  
-- 🔧 Currently building a secure auth system (OAuth, rate limiting, session control)
 - 📚 Self-taught, constantly leveling up my skills  
-- 💡 Passionate about Python, JavaScript, and solving real-world problems  
+- 💡 Passionate about Python, JavaScript, AI  and solving real-world problems  
 - 🎯 Mission: Bringing web ideas to life 
 
 ---
